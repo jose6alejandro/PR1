@@ -9,10 +9,7 @@ void procesarMatriz(Entero matriz[3][2]);
 int main(){
 
    /*
-   Entero matriz[3][2] = {{20,  6},
-                          {11,  3},
-                          { 6, 19}};
-
+   Entero matriz[3][2] = {{20,  6}, {11,  3}, { 6, 19}};
    procesarMatriz(matriz);                       
    */
    return 0;

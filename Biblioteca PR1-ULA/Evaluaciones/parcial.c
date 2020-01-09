@@ -11,9 +11,7 @@ Caracter buscar(Cadena, Caracter[2]);
 
 int main(){
     /*
-    Entero matriz[3][3] = {{22, 43, 55},
-                           {10, 60, 10},
-                           {20, 19, 67}};  
+    Entero matriz[3][3] = {{22, 43, 55}, {10, 60, 10}, {20, 19, 67}};  
 
     Cadena binario = leerCadena();    
     imprimirEntero(binarioADecimal(binario));
