@@ -51,10 +51,10 @@ void ordenar(Caracter letraA, Caracter letraB, Caracter letraC){
         c = b;
         b = aux;
           
-    if(a > b){
-        aux = a;
-        a = b;
-        b = aux;                
+        if(a > b){
+            aux = a;
+            a = b;
+            b = aux;                
         }
     }
 

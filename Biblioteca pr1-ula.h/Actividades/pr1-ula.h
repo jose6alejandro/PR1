@@ -55,9 +55,12 @@ typedef struct{
 
 void imprimir(char *);
 void imprimirColor(char *, char *, char *);
+void imprimirColor2(int, int, char *);
 void imprimirEntero(Entero);
 void imprimirCaracter(Caracter);
+void imprimirCadena(Cadena);
 void reproducirAudio(char *);
+void detenerAudio(char *);
 void reproducirAudioInterno(char *);
 void ejecutar(char *);
 void esperar(Entero);
@@ -79,6 +82,7 @@ void desconectarRobot(int);
 void enviarRobot(int, int);
 void enviar(int,int);
 int recibir(int);
+int iniciarJuego(void *(*)());
 int iniciarRostro(void *(*)());
 void hablar(char *);
 void hablarRobot(int, char *);
