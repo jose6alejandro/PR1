@@ -67,7 +67,7 @@ int main(){
                 imprimirResultado(a, c, b);
                 aux = 1;   
             }  
-               
+            
         }
 
         if(aux != 1)
@@ -104,9 +104,8 @@ int main(){
 Entero compararCadena(Cadena palabra1, Cadena palabra2){
    
     Entero i;
-    Entero aux = 0;
 
-    for (i = 0; aux == 0; i++){
+    for (i = 0; palabra1.tam; i++){
 
         if(palabra1.caracteres[i] > palabra2.caracteres[i])
             return 1;    
