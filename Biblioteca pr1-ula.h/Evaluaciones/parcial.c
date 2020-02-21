@@ -1,9 +1,12 @@
-#include "pr1-ula.h"
-
 /*
     Primer parcial de Programación 1 semestre U2019
 */
 
+#include "pr1-ula.h"
+
+/*
+    prototipos del parcial
+*/
 Entero tiempoAsegundos(Entero, Entero, Entero);
 Entero mayor(Entero[3][3]);
 Entero binarioADecimal(Cadena); //8 bits
