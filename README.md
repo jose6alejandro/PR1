@@ -25,6 +25,11 @@ Proximamente
 
 ### Artículos
 * [Aprendizaje en cursos introductorios de programación](https://www.researchgate.net/project/Aprendizaje-en-cursos-introductorios-de-programacion)
+
 ### Juegos
 * [Lightbot](https://lightbot.com)
+
+### Guia de ejercicios
+Proximamente
+
 
