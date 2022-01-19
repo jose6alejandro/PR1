@@ -21,6 +21,7 @@ Proximamente
 
 ### Libros
 * [La Esencia de la Lógica de Programación](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
+* [El lenguaje de Programación C](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
 
 ### Infografías 
 * [Introducción a la programación - Bel Rey](https://teloexplicocongatitos.com/poster/tlecg05)
