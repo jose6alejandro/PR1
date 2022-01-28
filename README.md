@@ -1,6 +1,6 @@
 # Curso de Programación 1
 
-El objetivo de este repositorio es recopilar la mayor cantidad de herramientas e información sobre la introducción a la programación, teniendo como base principal el curso de Programación 1 de la Universidad de Los Andes - Mérida, Venezuela.
+El objetivo de este repositorio es compartir la mayor cantidad de herramientas e información sobre la introducción a la programación, teniendo como base el curso de Programación 1 de la Universidad de Los Andes - Mérida, Venezuela.
 
 ## Descripción
 La asignatura "Programación 1" tiene como finalidad que los estudiantes desarrollen habilidades en el análisis, diseño y construcción de programas codificados en un lenguaje de alto nivel. La metodología de enseñanza incluye, clases magistrales, prácticas en el laboratorio, vídeos complementarios, actividades para la casa y guías de ejercicios.
