@@ -22,3 +22,8 @@ $ gcc 32/pr1-ula.o ejemplo1.c -o ejemplo -lpthread
 ```bash
 $ ./ejemplo
 ```
+## Algunas animaciones realizadas con pr1-ula.h
+
+* Kirby 2017 - https://www.youtube.com/watch?v=nu1pY54px-4
+* Mario Bros 2019 - https://www.youtube.com/watch?v=HaTFxqipnSw
+* Acuario 2019 - https://www.youtube.com/watch?v=ADkAIUw6LZg
