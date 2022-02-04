@@ -12,11 +12,11 @@ $ git clone https://github.com/perezj89/pr1-ula.git
 ## Compilación
 ### 64bits
 ```bash
-$ gcc 64/pr1-ula.o ejemplo1.c -o ejemplo -lpthread
+$ gcc 64bits/pr1-ula.o ejemplo1.c -o ejemplo -lpthread
 ```
 ### 32bits
 ```bash
-$ gcc 32/pr1-ula.o ejemplo1.c -o ejemplo -lpthread
+$ gcc 32bits/pr1-ula.o ejemplo1.c -o ejemplo -lpthread
 ```
 ## Ejecución
 ```bash
