@@ -23,16 +23,11 @@ Proximamente
 * [La Esencia de la Lógica de Programación](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
 * [El lenguaje de Programación C](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
 
-### Infografías 
-* [Introducción a la programación - Bel Rey](https://teloexplicocongatitos.com/poster/tlecg05)
-
 ### Artículos
 * [Aprendizaje en cursos introductorios de programación](https://www.researchgate.net/project/Aprendizaje-en-cursos-introductorios-de-programacion)
 
-### Juegos
-* [Lightbot](https://lightbot.com)
-
-### Guia de ejercicios
-Proximamente
+### Guias
+* [Ejercicios propuestos](https://docs.google.com/document/d/1eQkq8FGjz_rTsSLJwhIyAb6buf7t1TkVl5GC8vRl2rA/edit?usp=sharing)
+* [Infografía introducción a la programación - Bel Rey](https://teloexplicocongatitos.com/poster/tlecg05)
 
 
