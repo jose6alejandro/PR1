@@ -1,8 +1,8 @@
 #include "pr1-ula.h"
 
-int main() {
-   
-   imprimir("Hola mundo");
+int main() 
+{
+	imprimir("Hola mundo");
 
-   return 0;
+   	return 0;
 }

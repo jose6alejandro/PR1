@@ -2,20 +2,21 @@
 
 void invertirCadena(Cadena);
 
-int main() {
+int main() 
+{
+    Cadena frase = leerCadena();
 
-   Cadena frase = leerCadena();
+    invertirCadena(frase);
 
-   invertirCadena(frase);
-
-   return 0;
+    return 0;
 }
 
-void invertirCadena(Cadena frase) {
-
-   // imprimir(frase.caracteres);
-
-   for (Entero i = frase.tam - 1; i >= 0; i--) {
-      imprimirCaracter(frase.caracteres[i]);
-   }
+void invertirCadena(Cadena frase) 
+{
+    //  imprimir(frase.caracteres);
+   
+    for (Entero i = frase.tam - 1; i >= 0; i--) 
+    {
+        imprimirCaracter(frase.caracteres[i]);
+    }
 }

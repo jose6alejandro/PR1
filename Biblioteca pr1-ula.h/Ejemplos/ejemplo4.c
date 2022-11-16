@@ -2,20 +2,20 @@
 
 // Operadores aritméticos (+, -, *, /, %, ++, --)
 
-int main() {
+int main() 
+{
+    Entero a = 10;
+    Entero b = 6;
+    Entero c = a + b;
 
-   Entero a = 10;
-   Entero b = 6;
-   Entero c = a + b;
+    c = c / 2;
 
-   c = c / 2;
+    imprimirEntero(c);
 
-   imprimirEntero(c);
+    c++;
 
-   c++;
-
-   esperar(2);
-   imprimirEntero(c * a);
+    esperar(2);
+    imprimirEntero(c * a);
    
    return 0;
 }

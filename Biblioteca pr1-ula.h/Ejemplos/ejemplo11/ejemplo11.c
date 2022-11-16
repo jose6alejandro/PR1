@@ -4,26 +4,26 @@
 
 void sonido(Entero);
 
-int main() {
+int main() 
+{
+    sonido(2);
 
-   sonido(2);
-
-   return 0;
+    return 0;
 }
 
-void sonido(Entero i) {
-   
-   if (i == 1) {
+void sonido(Entero i) 
+{   
+    if (i == 1) 
+    {
+        reproducirAudio("sonido1");
+    }
 
-      reproducirAudio("sonido1");
-   }
-
-   if (i != 1) {
-      
-      reproducirAudio("sonido2");
-      esperar(5);
-      detenerAudio("sonido2");
-   }
+    if (i != 1) 
+    {      
+        reproducirAudio("sonido2");
+        esperar(5);
+        detenerAudio("sonido2");
+    }
 }
 
 

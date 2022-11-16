@@ -2,27 +2,28 @@
 
 void mensaje(Entero);
 
-int main() {
+int main() 
+{
 
-	mensaje(1);
-   mensaje(0);
+    mensaje(1);
+    mensaje(0);
 
-   return 0;
+    return 0;
 }
 
-void mensaje(Entero msj) {
+void mensaje(Entero msj) 
+{   
+    limpiar();
    
-   limpiar();
-   
-   if (msj == 1) {
+    if (msj == 1) 
+    {
+   	    imprimir("Buen día");
+    }
 
-   	imprimir("Buen día");
-   }
+    if (msj != 1) 
+    {
+        imprimir("feliz noche");
+    }
 
-   if (msj != 1) {
-
-   	imprimir("feliz noche");
-   }
-
-   esperar(2);
+    esperar(2);
 }

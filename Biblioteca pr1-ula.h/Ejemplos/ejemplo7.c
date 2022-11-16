@@ -2,16 +2,16 @@
 
 void mensaje();
 
-int main() {
+int main() 
+{
+    mensaje();
 
-   mensaje();
-
-   return 0;
+    return 0;
 }
 
-void mensaje() {
-   
-   limpiar();
-   imprimir("Hola, es mi primer procedimiento");
-   esperar(2);
+void mensaje()  
+{   
+    limpiar();
+    imprimir("Hola, es mi primer procedimiento");
+    esperar(2);
 }
