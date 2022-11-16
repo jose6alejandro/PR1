@@ -22,10 +22,6 @@ La asignatura "Programación 1" tiene como finalidad que los estudiantes desarro
 * [Introducción a la biblioteca pr1-ula.h](https://www.youtube.com/playlist?list=PLpB9366DV8cYkSQiGcuN-tV4xwqS-ci_P)
 * [Introducción a la biblioteca stdio.h](https://www.youtube.com/playlist?list=PLpB9366DV8cYkSQiGcuN-tV4xwqS-ci_P)
 
-### Cuestionarios
-* [Test de Pensamiento Computacional](https://quiz.directory/quiz/yKtww7nw)
-* [Mind of Logic](https://quiz.directory/quiz/s6vJMCE1)
-
 ### Libros
 * [La Esencia de la Lógica de Programación](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
 * [El lenguaje de Programación C](https://github.com/jose6alejandro/PR1/tree/master/Lectura)
