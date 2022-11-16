@@ -9,6 +9,8 @@ La asignatura "Programación 1" tiene como finalidad que los estudiantes desarro
 Proximamente
 
 ## Herramientas
+### Estilo de código
+* [Estilo pr1-ula](https://pr1-ula.readthedocs.io/en/latest/)
 
 ### Videos
 * [Introducción a scratch](https://www.youtube.com/playlist?list=PLpB9366DV8cYlHDl3-8_W017P_K1h6A_z)
@@ -26,8 +28,8 @@ Proximamente
 ### Artículos
 * [Aprendizaje en cursos introductorios de programación](https://www.researchgate.net/project/Aprendizaje-en-cursos-introductorios-de-programacion)
 
-### Guias
+### Ejercicios
 * [Ejercicios propuestos](https://docs.google.com/document/d/1eQkq8FGjz_rTsSLJwhIyAb6buf7t1TkVl5GC8vRl2rA/edit?usp=sharing)
-* [Infografía introducción a la programación - Bel Rey](https://teloexplicocongatitos.com/poster/tlecg05)
+
 
 
