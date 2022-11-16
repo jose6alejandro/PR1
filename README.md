@@ -30,7 +30,7 @@ La asignatura "Programación 1" tiene como finalidad que los estudiantes desarro
 * [Aprendizaje en cursos introductorios de programación](https://www.researchgate.net/project/Aprendizaje-en-cursos-introductorios-de-programacion)
 
 ### Ejercicios
-* [Ejercicios propuestos](https://docs.google.com/document/d/1eQkq8FGjz_rTsSLJwhIyAb6buf7t1TkVl5GC8vRl2rA/edit?usp=sharing)
+* [Ejercicios propuestos parte 1](https://drive.google.com/file/d/1rXMbjrTkS1hzHHBJJDv6dLJCdfByMrW7/view?usp=sharing)
 
 
 
