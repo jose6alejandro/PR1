@@ -6,7 +6,15 @@ El objetivo de este repositorio es compartir la mayor cantidad de herramientas e
 La asignatura "Programación 1" tiene como finalidad que los estudiantes desarrollen habilidades en el análisis, diseño y construcción de programas codificados en un lenguaje de alto nivel. La metodología de enseñanza incluye, clases magistrales, prácticas en el laboratorio, vídeos complementarios, actividades para la casa y guías de ejercicios.
 
 ## Contenido
-Proximamente
+- Introducción: comandos básicos, hola mundo, tipo de dato entero, operadores aritméticos 
+- Decisiones: decisión simple, operadores relacionales y lógicos, decisión compuesta, decisión anidada, decisión múltiple
+- Repeticiones: repita para, repita mientras, hacer mientras, repita para doble, instrucción continue, instrucción break
+- Arreglos: vectores, vector de caracteres, matriz de caracteres
+- Subprogramas: procedimientos, funciones, paso de parámetros
+- Apuntador: aritmética de punteros, parámetros por referencia, arreglos como parámetros
+- Registro: registro como parámetro, tipos de datos del usuario
+- Bibliotecas del usuario
+- Archivos: Lectura y escritura
 
 ## Herramientas
 ### Estilo de código
