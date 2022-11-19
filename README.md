@@ -32,9 +32,4 @@ La asignatura "Programación 1" tiene como finalidad que los estudiantes desarro
 
 ### Ejercicios
 * [Ejercicios propuestos parte 1](https://drive.google.com/file/d/1rXMbjrTkS1hzHHBJJDv6dLJCdfByMrW7/view?usp=sharing)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> d3f0482ff02fe47742a0bbbf7080d4788300c1f9
 
